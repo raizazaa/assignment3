@@ -1,0 +1,112 @@
+[
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 1,
+        "fields": {
+            "item_watched": true,
+            "item_title": "Hunter X Hunter: Phantom Rouge",
+            "item_rating": 1,
+            "item_release_date": "2013-01-12",
+            "item_review": "Bad writing, characters being out of behaviors. The art style is different, not necessarily bad, but the fighting scene is noticably terrible."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 2,
+        "fields": {
+            "item_watched": true,
+            "item_title": "Thor: Love and Thunder",
+            "item_rating": 3,
+            "item_release_date": "2022-07-06",
+            "item_review": "Good villain, bad writing in general. Characters having only one personality, and there is a lot of 'comedy'. Even in serious moments, they always try to put a joke or two to the scene."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 3,
+        "fields": {
+            "item_watched": false,
+            "item_title": "Kimi no Na wa.",
+            "item_rating": 5,
+            "item_release_date": "2016-08-26",
+            "item_review": "Spectacular animation with incredible sounds. Good character depth, the story conceptually very simple but with added depth."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 4,
+        "fields": {
+            "item_watched": true,
+            "item_title": "Avengers: Infinity War",
+            "item_rating": 4,
+            "item_release_date": "2018-04-25",
+            "item_review": "Really good animation and fight scenes. The story is mostly okay, with a cliffhanger at the end."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 5,
+        "fields": {
+            "item_watched": false,
+            "item_title": "El Camino: A Breaking Bad Movie",
+            "item_rating": 4,
+            "item_release_date": "2019-10-11",
+            "item_review": "A sequal to an amazing show. It gives the aftermath of a character having to deal with crimes that they did."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 6,
+        "fields": {
+            "item_watched": false,
+            "item_title": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
+            "item_rating": 2,
+            "item_release_date": "2021-07-02",
+            "item_review": "Generic storyline, with an already developed characaters if you watched the anime. Decent animation and sound."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 7,
+        "fields": {
+            "item_watched": true,
+            "item_title": "The Conjuring: The Devil Made Me Do It",
+            "item_rating": 3,
+            "item_release_date": "2021-06-02",
+            "item_review": "Different kind of movie from your typical horror movies. Decent story, and decent characters. The movie always have an eerie feeling on every scene."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 8,
+        "fields": {
+            "item_watched": false,
+            "item_title": "Star Wars: Episode I The Phantom Menace",
+            "item_rating": 3,
+            "item_release_date": "1999-05-16",
+            "item_review": "Pretty good movie overall. Decent characters, and an alright storyline"
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 9,
+        "fields": {
+            "item_watched": true,
+            "item_title": "Avengers: Endgame",
+            "item_rating": 4,
+            "item_release_date": "2019-04-24",
+            "item_review": "It is an epic conclusion to a decade plus storyline. Really good animation and final fight scene. Decent enough plot, but with a twist."
+        }        
+    },
+    {
+        "model": "mywatchlist.itemmywatchlist",
+        "pk": 10,
+        "fields": {
+            "item_watched": false,
+            "item_title": "The Lord of the Rings: The Return of the King",
+            "item_rating": 5,
+            "item_release_date": "2004-01-14",
+            "item_review": "Amazing production that got put into making this movie. Captivating story and a really wide world building."
+        }        
+    }
+]
