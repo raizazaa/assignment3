@@ -1,7 +1,10 @@
 # PBP Assignment 2: Introduction to Django and Models View Template (MVT) Concept
 
 [Project Template](https://github.com/pbp-fasilkom-ui/assignment-repository)<br/>
-[Heroku Application](https://raaassignment2.herokuapp.com/katalog/)
+## Heroku Application
+[HTML](https://raaassignment2.herokuapp.com/mywatchlist/html) ---
+[XML](https://raaassignment2.herokuapp.com/mywatchlist/xml) ---
+[JSON](https://raaassignment2.herokuapp.com/mywatchlist/json) ---
 
 ## Django diagram
 
