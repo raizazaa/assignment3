@@ -18,8 +18,7 @@ By using the command python manage.py startapp mywatchlist and the app to the pr
 <br/>
 
 ### Add watchlist URL
-Add the path to the project django
->url.py.
+Add the path to the project django url.py.
 <br/>
 
 ### Create models
@@ -34,10 +33,11 @@ Add data to mywatchlist/fixtures/initial_mywatchlist_data.json and migrate + loa
 Add a new function to views.py and route it to urls.py
 <br/>
 
-## Postman Screenshots
+## Postman screenshots
 [HTML](https://cdn.discordapp.com/attachments/938087203547013131/1022280339479072798/unknown.png) ---
 [XML](https://cdn.discordapp.com/attachments/938087203547013131/1022280397121388605/unknown.png) ---
 [JSON](https://cdn.discordapp.com/attachments/938087203547013131/1022280432076718080/unknown.png)
 <br/>
 
+## Assignment template
 [Project Template](https://github.com/pbp-fasilkom-ui/assignment-repository)
