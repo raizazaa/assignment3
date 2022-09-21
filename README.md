@@ -14,9 +14,7 @@ Data delivery is used in a way that makes it easier to display data to various i
 ## Way to implement things
 
 ### Create a new app
-By using the command 
->python manage.py startapp mywatchlist
-and the app to the project django setting.
+By using the command python manage.py startapp mywatchlist and the app to the project django setting.
 <br/>
 
 ### Add watchlist URL
@@ -25,21 +23,15 @@ Add the path to the project django
 <br/>
 
 ### Create models
-From the app folder, I add the fields requirements to the class
->models.py
+From the app folder, I add the fields requirements to the class models.py
 <br/>
 
 ### Add data
-Add data to
->mywatchlist/fixtures/initial_mywatchlist_data.json
-and migrate + loaddata the file
+Add data to mywatchlist/fixtures/initial_mywatchlist_data.json and migrate + loaddata the file
 <br/>
 
 ### Implement feature to present data with different formats
-Add a new function to
->views.py
-and route it to
->urls.py
+Add a new function to views.py and route it to urls.py
 <br/>
 
 ## Postman Screenshots
