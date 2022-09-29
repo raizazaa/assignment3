@@ -1,4 +1,4 @@
-# PBP Assignment 2: Introduction to Django and Models View Template (MVT) Concept
+# PBP Assignment 3: Implement Data Delivery using Django
 
 ## Heroku Application
 [HTML](https://raaassignment3.herokuapp.com/mywatchlist/html) ---
