@@ -1,9 +1,9 @@
 # PBP Assignment 2: Introduction to Django and Models View Template (MVT) Concept
 
 ## Heroku Application
-[HTML](https://raaassignment2.herokuapp.com/mywatchlist/html) ---
-[XML](https://raaassignment2.herokuapp.com/mywatchlist/xml) ---
-[JSON](https://raaassignment2.herokuapp.com/mywatchlist/json)
+[HTML](https://raaassignment3.herokuapp.com/mywatchlist/html) ---
+[XML](https://raaassignment3.herokuapp.com/mywatchlist/xml) ---
+[JSON](https://raaassignment3.herokuapp.com/mywatchlist/json)
 
 ## Difference between HTML, XML, JSON
 Generally, we use these data format each for a different reason. HTML mainly used for its customizability making it reader-friendly for formats. While XML is mainly used for its structure that is consistent even when displaying tons and tons of data. But, with the rise of web application, that is more of dynamic websites, JSON is used for structuring information that is easily and fluently interact with its peers languganges.
